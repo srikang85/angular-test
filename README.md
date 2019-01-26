@@ -1,3 +1,3 @@
 # angular-test
 
-This is demo app for Angular
+This is demo app for Angular 7
